@@ -11,6 +11,7 @@
 // Start with the Dapr sidecar:
 //
 //	dapr run --app-id eiker-company-db --app-protocol grpc --app-port 50002 -- ./eiker-company-db
+
 package main
 
 import (
